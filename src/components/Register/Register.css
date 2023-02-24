@@ -1,0 +1,29 @@
+.register_div{
+    margin-top: 6rem;
+    width: 25rem;
+    height: 18rem;
+    border: #cecaca solid 1px;
+    background: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.input-style-register{
+    width: 14rem;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: #f5909036;
+    border: none;
+    padding-left: 10px;
+    margin-bottom:1rem;
+}
+
+.main-div-register{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
